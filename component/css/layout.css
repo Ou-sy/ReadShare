@@ -1,0 +1,40 @@
+
+.wrapper{
+    width: 100vw;
+    height: 100vh;
+    /* background-color:#FAFAFA; */
+    background-color:rgb(255, 249, 239);
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: auto;
+}
+.container{
+    /* background-color:#FAFAFA; */
+    width: 90%;
+    background-color:rgb(255, 249, 239);
+
+    font-family: "微軟正黑體";
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    /* max-width: 1170px;    */
+    max-width: 1440px;   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
